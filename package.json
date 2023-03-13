@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suazo30/backend_uni.git"
+  },
+  "keywords": [
+    "proyecto",
+    "libreria"
+  ],
+  "author": "mario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suazo30/backend_uni/issues"
+  },
+  "homepage": "https://github.com/Suazo30/backend_uni#readme"
+}
