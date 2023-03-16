@@ -7,7 +7,7 @@ const { response } = require('express');
 
 const UsersController = {};
 
-UsersController.getAllUsers = async (req, res) => {
+UsersController.getAllUser = async (req, res) => {
 
     try {
 

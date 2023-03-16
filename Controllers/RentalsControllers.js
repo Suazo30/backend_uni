@@ -1,5 +1,5 @@
 const Rentals = require('../models/rentals');
-const RentalsController = require('../models/rentals');
+// const RentalsController = require('../models/rentals');
 
 // const jsonwebtoken = require('jsonwebtoken');
 
